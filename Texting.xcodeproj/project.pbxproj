@@ -12,6 +12,7 @@
 		518DE6182139E03100B43049 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 518DE6162139E03100B43049 /* Main.storyboard */; };
 		518DE61A2139E03100B43049 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 518DE6192139E03100B43049 /* Assets.xcassets */; };
 		518DE61D2139E03100B43049 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 518DE61B2139E03100B43049 /* LaunchScreen.storyboard */; };
+		518DE6252139EC8F00B43049 /* TextingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518DE6242139EC8F00B43049 /* TextingTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		518DE6192139E03100B43049 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		518DE61C2139E03100B43049 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		518DE61E2139E03100B43049 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		518DE6242139EC8F00B43049 /* TextingTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextingTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				518DE6122139E03100B43049 /* AppDelegate.swift */,
 				518DE6142139E03100B43049 /* ViewController.swift */,
+				518DE6242139EC8F00B43049 /* TextingTableViewCell.swift */,
 				518DE6162139E03100B43049 /* Main.storyboard */,
 				518DE6192139E03100B43049 /* Assets.xcassets */,
 				518DE61B2139E03100B43049 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				518DE6152139E03100B43049 /* ViewController.swift in Sources */,
+				518DE6252139EC8F00B43049 /* TextingTableViewCell.swift in Sources */,
 				518DE6132139E03100B43049 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
